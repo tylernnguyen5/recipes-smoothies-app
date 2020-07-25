@@ -1,8 +1,24 @@
-# ninja-smoothies
+# Recipes Smoothies App
 
-> A Vue.js project
+This application is for keeping a list of smoothie recipes. From the home page, a few example of recipes are provided. The user can edit the recipes with the pencil icon below each recipe. The user can also add a recipe with the '+' button in the upper right conner of the home page. Between each ingredient, tap 'Tab' key to add an extra ingredient,
 
-## Build Setup
+You can try it out [here](https://ninja-smoothies-1bba1.web.app/).
+
+## Screenshots
+
+
+
+## Dependencies 
+
+- Node.js 
+- Firebase (Hosting, Firestore)
+- Vue.js
+- [Materialize CSS](https://materializecss.com/)
+- Slugify
+
+---
+
+## Build Setup for Vue.js
 
 ``` bash
 # install dependencies
